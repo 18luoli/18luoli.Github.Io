@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>最新地址发布页-求地址</title>
+<meta name="keywords" content="求地址,发布页,最新地址,地址发布,最新地址发布页,最新发布页">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<meta name="apple-touch-fullscreen" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="format-detection" content="telephone-no">
+<link rel="shortcut icon" href="favicon.ico">
+<style>
+*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+body{background:url(bg.png) repeat;padding:0;margin:0}
+a,a:active,a:hover,a:link,a:visited{color:#484848;text-decoration:none}
+.main{background-color:#FFF;width:100%;max-width:980px;margin:0 auto;margin-top:10px;margin-bottom:10px;box-shadow:0px 0px 5px 5px #808080;border:1px solid #d6d6d6;padding:10px;border-radius:2px;text-align:center}
+.main .title{text-align:center;font-weight:bold;font-size:16px;background-color:#F7F7F7;color:#484848;border:1px solid #d6d6d6;padding-top:10px;padding-bottom:10px;margin-bottom:10px;margin-left:-10px;margin-right:-10px}
+.main .goto-1{text-align:center;font-weight:bold;font-size:14px;color:#484848;margin-bottom:10px;background-color:#F7F7F7;border:1px solid #d6d6d6;border-radius:2px;padding-top:5px;padding-bottom:5px;cursor:pointer;width:22%;margin:1%;display:inline-block}
+.main .goto-1:hover{background:#dfdfdf;color:#ffffff}
+.main .goto-2{text-align:center;font-weight:600;color:#484848;margin-bottom:10px;background-color:#F7F7F7;padding-top:5px;padding-bottom:5px;cursor:pointer;width:46%;margin:1%;display:inline-block}
+.main .goto-3{text-align:center;color:#f90;font-weight:600;font-size:30px;margin-bottom:10px}
+.hide{display:none}
+.we-prompt{display:none;position:fixed;left:0;top:0;bottom:0;height:100%;background-color:#fff;width:100%;z-index:100;padding:10px}
+.we-prompt p{margin-top:5px;margin-bottom:5px}
+.we-prompt .go-index{position:absolute;left:50%;bottom:20px;width:120px;margin-left:-50px;text-align:center;color:#fff;background-color:#090;padding:5px;z-index:110}
+.masked{background-image:-webkit-linear-gradient(left,#3498db,#f47920 10%,#d71345 20%,#f7acbc 30%,#ffd400 40%,#3498db 50%,#f47920 60%,#d71345 70%,#f7acbc 80%,#ffd400 90%,#3498db);color:transparent;-webkit-text-fill-color:transparent;-webkit-background-clip:text;background-size:200% 100%;animation:masked-animation 2s infinite linear}
+@keyframes masked-animation{0%{background-position:0 0}
+100%{background-position:-100% 0}
+}
+#my_centered_buttons{display:flex;justify-content:center}
+@media screen and (max-width:800px){
+.main .goto-1{text-align:center;font-weight:600;color:#484848;margin-bottom:10px;background-color:#F7F7F7;border:1px solid #d6d6d6;border-radius:2px;padding-top:5px;padding-bottom:5px;cursor:pointer;width:46%;margin:1%;display:inline-block}	
+}
+</style>
+</head>
+<body leftmargin=0 topmargin=0 oncontextmenu='return false' ondragstart='return false' onselectstart ='return false' onselect='document.selection.empty()' oncopy='document.selection.empty()' onbeforecopy='return false' onmouseup='document.selection.empty()'>
+<div class="main">
+<img src="dizhi.png">
+	<div style="font-size:14px; text-align:center; margin-bottom:10px;">为了避免因外星电波干扰导致的丢失，请记住我们的官方发布页！</div>
+	<div class="masked" style="font-size:18px; text-align:center; margin-bottom:10px; color: #F00; font-weight: bold;">按 Ctrl + D 可以收藏该地址，不迷路</div>
+	<div class="title">秘 密 入 口</div>
+	<div class="goto-1"><a rel="external nofollow" href="mm/669.html" target="_blank">地址①:&nbsp;&nbsp;mimi669.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="mm/696.html" target="_blank">地址②:&nbsp;&nbsp;mimi696.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="mm/699.html" target="_blank">地址③:&nbsp;&nbsp;mimi699.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="https://www.rukou.page/?qiu" target="_blank">地址④:&nbsp;&nbsp;rukou.page</a></div>
+	<div class="goto-1" style="width: 95%;"><a href="https://mimifabu.github.io/" target="_blank">备用海外发布页：https://mimifabu.github.io</a></div>
+	<div class="title">福 利 研 究 所</div>
+	<div class="goto-1"><a rel="external nofollow" href="yan/tv/1.html" target="_blank">地址①:&nbsp;&nbsp;m.yanjiusuo1.tv</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="yan/tv/2.html" target="_blank">地址②:&nbsp;&nbsp;m.yanjiusuo2.tv</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="yan/tv/3.html" target="_blank">地址③:&nbsp;&nbsp;m.yanjiusuo3.tv</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="https://fuli.dog/?qiu" target="_blank">地址④:&nbsp;&nbsp;fuli.dog</a></div>
+	<div class="goto-1" style="width: 95%;"><a href="https://linktr.ee/yanjiusuo" target="_blank">备用海外发布页：https://linktr.ee/yanjiusuo</a></div>
+	<div class="title">魔 鏡 號</div>
+	<div class="goto-1"><a rel="external nofollow" href="mo/11.html" target="_blank">地址①:&nbsp;&nbsp;mojinghao11.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="mo/22.html" target="_blank">地址②:&nbsp;&nbsp;mojinghao22.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="mo/33.html" target="_blank">地址③:&nbsp;&nbsp;mojinghao33.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="https://www.mojinghao.com/?qiu" target="_blank">地址④:&nbsp;&nbsp;mojinghao.com</a></div>
+	<div class="goto-1" style="width: 95%;"><a href="https://linktr.ee/mojinghao" target="_blank">备用海外发布页：https://linktr.ee/mojinghao</a></div>
+	<div class="title">宅 宅 導 航</div>
+	<div class="goto-1"><a rel="external nofollow" href="zz/11.html" target="_blank">地址①:&nbsp;&nbsp;zzdh11.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="zz/22.html" target="_blank">地址②:&nbsp;&nbsp;zzdh22.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="zz/33.html" target="_blank">地址③:&nbsp;&nbsp;zzdh33.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="https://www.zzdh.vip/?qiu" target="_blank">地址④:&nbsp;&nbsp;zzdh.vip</a></div>
+	<div class="goto-1" style="width: 95%;"><a href="https://zhaizhaivip.github.io/" target="_blank">备用海外发布页：https://zhaizhaivip.github.io</a></div>
+	<div class="title">福 利 書 籤</div>
+	<div class="goto-1"><a rel="external nofollow" href="sq/01.html" target="_blank">地址①:&nbsp;&nbsp;flsq01.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="sq/02.html" target="_blank">地址②:&nbsp;&nbsp;flsq02.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="sq/03.html" target="_blank">地址③:&nbsp;&nbsp;flsq03.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="https://www.fulishuqian.com/?qiu" target="_blank">地址④:&nbsp;&nbsp;fulishuqian.com</a></div>
+	<div class="title">工 口 姬</div>
+	<div class="goto-1"><a rel="external nofollow" href="gkj/10.html" target="_blank">地址①:&nbsp;&nbsp;gongkouji10.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="gkj/20.html" target="_blank">地址②:&nbsp;&nbsp;gongkouji20.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="gkj/30.html" target="_blank">地址③:&nbsp;&nbsp;gongkouji30.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="https://www.gongkouji.com/?qiu" target="_blank">地址④:&nbsp;&nbsp;gongkouji.com</a></div>
+	<div class="title">激 萌 導 航</div>
+	<div class="goto-1"><a rel="external nofollow" href="meng/03.html" target="_blank">地址①:&nbsp;&nbsp;jimeng3.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="meng/04.html" target="_blank">地址②:&nbsp;&nbsp;jimeng4.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="meng/06.html" target="_blank">地址③:&nbsp;&nbsp;jimeng6.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="https://www.jmdh.tv/?qiu" target="_blank">地址④:&nbsp;&nbsp;jmdh.tv</a></div>
+	<div class="title">福 利 百 科</div>
+	<div class="goto-1"><a rel="external nofollow" href="bk/13.html" target="_blank">地址①:&nbsp;&nbsp;baike13.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="bk/14.html" target="_blank">地址②:&nbsp;&nbsp;baike14.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="bk/15.html" target="_blank">地址③:&nbsp;&nbsp;baike15.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="https://www.flbk.cc/?qiu" target="_blank">地址④:&nbsp;&nbsp;flbk.cc</a></div>
+	<div class="title" style="margin-top:10px;">郵箱获取最新地址</div>
+	<div class="goto-3"><a>qiudizhi8@gmail.com</a></div>
+	<div style="font-size:14px; text-align:center; margin-bottom:10px;">发送任意邮件到此邮箱可获得最新地址的自动回复</div>
+	<div style="font-size:14px; text-align:center; margin-bottom:10px;"><a style="color: red;" href="qiu.html" target="_blank">您还可以点击这里把求地址保存到本地</a></div>
+	<div class="title">求地址官方社群</div>
+	<div class="goto-1"><a rel="external nofollow" href="https://t.me/qiudizhi" target="_blank">官方Telegram群組</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="https://t.me/qiudizhi8" target="_blank">官方Telegram頻道</a></div>
+	<div class="title" style="margin-top: 10px;">
+	分享給好朋友
+	</div>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" id="my_centered_buttons">
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_email"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_douban"></a>
+<a class="a2a_button_qzone"></a>
+<a class="a2a_button_wechat"></a>
+<a class="a2a_button_tumblr"></a>
+<a class="a2a_button_copy_link"></a>
+</div>
+	<div class="title" style="margin-top:10px;">關於求地址</div>
+	<div class="goto-3"><a><span style="color:#000000"></span></a></div>
+	<div style="font-size:16px; text-align:center; margin-bottom:10px;">【求地址】是一个非盈利性的网站，建设于2014年，网站接口友好，配色干净、舒适。自网站建立以来始终坚持“纯净·实用·无广告·用户体验至上”的理念，赢得到用户的广泛认可，在业界享有盛誉。<br>
+	如今，在经历过风吹雨打、和无数次被抄袭之后，求地址将心存继往，做最稳定、最纯净、最实用的福利发布页。</div>
+	<div class="goto-1"><a rel="external nofollow" href="https://求地址.com" target="_blank">➀ 求地址.com</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="https://qdz.pw" target="_blank">➁ qdz.pw</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="https://qdz.one" target="_blank">➁ qdz.one</a></div>
+	<div class="goto-1"><a rel="external nofollow" href="https://qdz.app" target="_blank">➁ qdz.app</a></div>
+	<div style="font-size:16px; text-align:center; margin-top:20px; margin-bottom:10px;">CopyRight © 2023</div>
+
+</body>
+</html>
